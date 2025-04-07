@@ -1,6 +1,4 @@
-import os,requests
-from colorama import *
-import hashlib
+import os
 os.system('cls')
 
 
